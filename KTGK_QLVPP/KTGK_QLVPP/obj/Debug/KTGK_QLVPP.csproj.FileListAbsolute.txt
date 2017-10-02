@@ -1,2 +1,11 @@
 c:\users\nguye\onedrive\documents\visual studio 2013\Projects\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.pdb
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.Form1.resources
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.MH_In_DSSP.resources
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.Properties.Resources.resources
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.exe
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.pdb

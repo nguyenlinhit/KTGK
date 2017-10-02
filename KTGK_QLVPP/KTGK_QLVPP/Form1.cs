@@ -16,5 +16,11 @@ namespace KTGK_QLVPP
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MH_In_DSSP frm = new MH_In_DSSP();
+            frm.Show();
+        }
     }
 }
