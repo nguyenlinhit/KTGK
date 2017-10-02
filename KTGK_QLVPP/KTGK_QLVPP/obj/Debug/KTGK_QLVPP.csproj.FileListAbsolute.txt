@@ -1,0 +1,2 @@
+c:\users\nguye\onedrive\documents\visual studio 2013\Projects\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
+C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
