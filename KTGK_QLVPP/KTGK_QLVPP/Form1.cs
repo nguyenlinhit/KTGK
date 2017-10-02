@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DevComponents.DotNetBar;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,10 +18,28 @@ namespace KTGK_QLVPP
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void Form1_Load(object sender, EventArgs e)
         {
             MH_In_DSSP frm = new MH_In_DSSP();
             frm.Show();
+=======
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            TabItem tab = tabControl1.CreateTab("Đăng nhập");
+            MH_Dang_Nhap f_dangnhap = new MH_Dang_Nhap();
+            f_dangnhap.Dock = DockStyle.Fill;
+            f_dangnhap.FormBorderStyle = FormBorderStyle.None;
+            f_dangnhap.TopLevel = false;
+            tab.AttachedControl.Controls.Add(f_dangnhap);
+            f_dangnhap.Show();
+            tabControl1.SelectedTabIndex = tabControl1.Tabs.Count - 1;
+>>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
         }
     }
 }
