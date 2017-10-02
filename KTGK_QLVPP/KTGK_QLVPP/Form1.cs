@@ -18,12 +18,6 @@ namespace KTGK_QLVPP
             InitializeComponent();
         }
 
-<<<<<<< HEAD
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            MH_In_DSSP frm = new MH_In_DSSP();
-            frm.Show();
-=======
         private void btnThoat_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -39,7 +33,6 @@ namespace KTGK_QLVPP
             tab.AttachedControl.Controls.Add(f_dangnhap);
             f_dangnhap.Show();
             tabControl1.SelectedTabIndex = tabControl1.Tabs.Count - 1;
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
         }
     }
 }
