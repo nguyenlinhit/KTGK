@@ -28,10 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
-            this.SuspendLayout();
-            // 
-=======
             this.ribbonControl1 = new DevComponents.DotNetBar.RibbonControl();
             this.DMHeThong = new DevComponents.DotNetBar.RibbonTabItem();
             this.ribbonPanel1 = new DevComponents.DotNetBar.RibbonPanel();
@@ -395,17 +391,10 @@
             this.tabControl1.TabLayoutType = DevComponents.DotNetBar.eTabLayoutType.FixedWithNavigationBox;
             this.tabControl1.Text = "tabControl1";
             // 
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< HEAD
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
-=======
             this.ClientSize = new System.Drawing.Size(908, 475);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.ribbonControl1);
@@ -416,7 +405,6 @@
             this.ribbonPanel1.ResumeLayout(false);
             this.ribbonPanel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.tabControl1)).EndInit();
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
             this.ResumeLayout(false);
 
         }

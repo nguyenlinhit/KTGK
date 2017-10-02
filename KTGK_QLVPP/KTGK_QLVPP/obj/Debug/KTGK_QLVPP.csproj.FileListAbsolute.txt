@@ -1,6 +1,5 @@
 c:\users\nguye\onedrive\documents\visual studio 2013\Projects\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
-<<<<<<< HEAD
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.pdb
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.csprojResolveAssemblyReference.cache
@@ -10,6 +9,4 @@ C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KT
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.csproj.GenerateResource.Cache
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.exe
 C:\Users\nguye\OneDrive\documents\visual studio 2013\Projects\KTGK\KTGK_QLVPP\KTGK_QLVPP\obj\Debug\KTGK_QLVPP.pdb
-=======
 C:\Users\Nguyen\Source\Repos\KTGK\KTGK_QLVPP\KTGK_QLVPP\bin\Debug\KTGK_QLVPP.exe.config
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7

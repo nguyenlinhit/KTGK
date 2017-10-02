@@ -32,7 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
@@ -42,14 +41,6 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Services" />
-=======
-    <Reference Include="DevComponents.DotNetBar2">
-      <HintPath>D:\Quan que\DevComponents.DotNetBar2.dll</HintPath>
-    </Reference>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Design" />
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -72,7 +63,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="MH_In_DSSP.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,7 +89,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MH_In_DSSP.resx">
       <DependentUpon>MH_In_DSSP.cs</DependentUpon>
-=======
     <Compile Include="MH_Dang_Nhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -113,7 +102,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MH_Dang_Nhap.resx">
       <DependentUpon>MH_Dang_Nhap.cs</DependentUpon>
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -150,9 +138,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
-=======
     <Folder Include="Database\" />
     <Folder Include="Lop\" />
   </ItemGroup>
@@ -206,7 +192,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\quan.jpg" />
->>>>>>> c7281a7c7e546cdf4d185c79d7f00561cfd5e0b7
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
